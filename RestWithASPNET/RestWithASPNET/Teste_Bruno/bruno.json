@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Teste_SimpleAPI_DotNet",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
